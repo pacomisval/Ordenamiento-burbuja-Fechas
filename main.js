@@ -10,8 +10,6 @@ var b1,b2,b3;
 var res1, respu;
 var resultado = "";
 
-res1 = res[0].toString().split("/");
-
 function comparar(a, b) {
     var arrayA = a.toString().split("/");
     var arrayB = b.toString().split("/");
